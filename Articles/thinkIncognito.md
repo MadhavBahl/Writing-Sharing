@@ -15,11 +15,11 @@ First, go visit this website: <a href="https://think-incognito.herokuapp.com/">T
   * Enter your **NAME** there.
   * Close that window.
   * Open *Private browsing* or *Incognito Mode*.
-  * Again visit the same website
+  * Again visit the same website<br />
 SURPRIZED????
-Yes, the website can remember your name even if you had visited it via the Private browsing or Incognito Mode. Yes, nothing is private in this world anymore!. This is what the big companies are doing with your identity. You think that going into private mode will wipe out all the traces?. Absolutely Not! Actually, using the private browsing or incognito mode will just help you to clear your browsing history. Your internet service providers, search engines and your favorite websites can still track you. They can know you. They know what you like and dislike. They use your data to earn money.
-Go on see these two 5 minute videos:
-<a href="https://www.youtube.com/watch?v=5pFX2P7JLwA">The Terrifying Cost of "Free” Websites</a>
+Yes, the website can remember your name even if you had visited it via the Private browsing or Incognito Mode. Yes, nothing is private in this world anymore!. This is what the big companies are doing with your identity. You think that going into private mode will wipe out all the traces?. Absolutely Not! Actually, using the private browsing or incognito mode will just help you to clear your browsing history. Your internet service providers, search engines and your favorite websites can still track you. They can know you. They know what you like and dislike. They use your data to earn money.<br />
+Go on see these two 5 minute videos:<br />
+<a href="https://www.youtube.com/watch?v=5pFX2P7JLwA">The Terrifying Cost of "Free” Websites</a> <br />
 <a href="https://www.youtube.com/watch?v=RpxHpQShVes">Social media: The digital fingerprint</a>
 
 #### How ThinkIncognito was made?

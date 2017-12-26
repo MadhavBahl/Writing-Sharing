@@ -16,3 +16,6 @@ Find more about me: <a href="MyWrites/Myself.md">Madhav Bahl</a> <br />
 3. [🌐 How to start WEB DEV -- A 21st century practicle GUIDEBOOK -- COMING SOON!](#)
 4. [😎 Think Incognito](Articles/thinkIncognito.md)
 5. [✨ Awesome background with ParticlesJS](#)
+6. [⚙️ Object Oriented Programming With C++](https://madhavbahlmd.github.io/OOPS/)
+7. [🇨 Introductory Problems in C Programming](https://madhavbahlmd.github.io/OOPS/reviseC/)
+8. [💻 Operating System Related Algorithms](https://madhavbahlmd.github.io/OperatingSystem-Algorithms/)

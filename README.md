@@ -4,8 +4,8 @@ My first gitbook. (Will be available soon)
 ------
 Myself, MADHAV BAHL
 --> A CADET WHO CODES
-[<img src="https://avatars1.githubusercontent.com/u/26179770?s=400&v=4" align="right" height="120">](MyWrites/Myself.md)
-Find more about me: <a href="MyWrites/Myself.md">Madhav Bahl</a> <br />
+[<img src="https://avatars1.githubusercontent.com/u/26179770?s=400&v=4" align="right" height="120">](http://madhavbahl.ml/)
+Find more about me: <a href="http://madhavbahl.ml/">Madhav Bahl</a> <br />
 ##### MADHAV BAHL <kbd>[madhavbahl.ml](http://madhavbahl.ml) / [LinkedIn](https://www.linkedin.com/in/madhavbahl/) / [Github](https://www.github.com/MadhavBahlMD) / [E-Mail](mailto:madhavbahl@gmail.com)</kbd>
 ------
 
@@ -20,3 +20,4 @@ Find more about me: <a href="MyWrites/Myself.md">Madhav Bahl</a> <br />
 7. [⚙️ Object Oriented Programming With C++](https://madhavbahlmd.github.io/OOPS/)
 8. [🇨 Introductory Problems in C Programming](https://madhavbahlmd.github.io/OOPS/reviseC/)
 9. [💻 Operating System Related Algorithms](https://madhavbahlmd.github.io/OperatingSystem-Algorithms/)
+10. [🐍 Python Syntax](https://madhavbahlmd.github.io/PyText/)

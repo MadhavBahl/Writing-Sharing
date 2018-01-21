@@ -14,7 +14,7 @@ Find more about me: <a href="http://madhavbahl.ml/">Madhav Bahl</a> <br />
 1. [📝 Why did I Start Writing](MyWrites/Myself.md)
 2. [😊 My first BLOG -- MOTIVATE YOURSELF](MyWrites/Motivational.md)
 3. [:octocat: Intro to GIT and GitHub](Articles/GitIntro.md)
-4. [🌐 How to start WEB DEV -- A 21st century practicle GUIDE](https://medium.com/@madhavbahl10/a-practical-approach-to-web-development-1ee37a4ad829)
+4. [🌐 How to start WEB DEV -- A 21st century practicle GUIDE](./Articles/startWebDev.md)
 5. [😎 Think Incognito](Articles/thinkIncognito.md)
 6. [✨ Awesome background with ParticlesJS](#)
 7. [⚙️ Object Oriented Programming With C++](https://madhavbahlmd.github.io/OOPS/)

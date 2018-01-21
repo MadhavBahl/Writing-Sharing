@@ -9,7 +9,6 @@ tags: webdev, javascript, coding, beginner
 ![image](https://user-images.githubusercontent.com/26179770/35183498-a69afccc-fe0d-11e7-862c-49ec6a7485e4.png)
 
 
-
 > “There are three responses to a piece of design — yes, no, and WOW! 
 > Wow is the one to aim for.” 
 >                            -Milton Glaser
@@ -19,13 +18,13 @@ tags: webdev, javascript, coding, beginner
 This article is linked to my medium article -- [**WebDev Guide**](https://codeburst.io/a-practical-approach-to-web-development-1ee37a4ad829)
 
 So you are a beginner having no knowledge about this field.
-<b>No Problem<b>. This article will remove all your doubts regarding how you should start web development. It is written in an easily understandable language and practical steps which can help you start with web development.
+<b>No Problem</b>. This article will remove all your doubts regarding how you should start web development. It is written in an easily understandable language and practical steps which can help you start with web development.
 
 ## Why do I write?
 The main reason is that I am also a web developer, willing to help all the aspiring web-developers out there who want to step into this community of developers, but need a mentor. I committed many mistakes when I was a beginner, and I don’t want anyone else to make the same mistake which I made.
 
->  “You don’t have to be great to start, 
->  but you have to start to be great.”
+>  <i>“You don’t have to be great to start, </i>
+>  <i>but you have to start to be great.” </i>
 
 <i>**Let’s Start This Awesome Journey Of Web Development.**</i>
 ## ROADMAP

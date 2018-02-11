@@ -13,7 +13,7 @@ Find more about me: <a href="http://madhavbahl.ml/">Madhav Bahl</a> <br />
 
 1. [📝 Why did I Start Writing](MyWrites/Myself.md)
 2. [😊 My first BLOG -- MOTIVATE YOURSELF](MyWrites/Motivational.md)
-3. [:octocat: Intro to GIT and GitHub](Articles/GitIntro.md)
+3. [:octocat: Intro to GIT and GitHub](https://medium.com/codeburst/git-good-part-a-e0d826286a2a)
 4. [🌐 How to start WEB DEV -- A 21st century practicle GUIDE](./Articles/startWebDev.md)
 5. [😎 Think Incognito](Articles/thinkIncognito.md)
 6. [✨ Awesome background with ParticlesJS](#)

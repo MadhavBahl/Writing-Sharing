@@ -25,6 +25,8 @@ Find more about me: <a href="http://madhavbahl.ml/">Madhav Bahl</a> <br />
 6. [😎 Think Incognito](Articles/thinkIncognito.md)
 7. [✨ Awesome background with ParticlesJS](#)
 8. [👨 Code your own portfolio -- Learn MaterializeCSS with hands on](https://medium.com/@madhavbahl10/lets-code-our-portfolio-a-practical-approach-to-materializecss-61adfb17e308)
+9. [🔌 Read Arduino Serial Monitor Using NodeJS](https://hackernoon.com/arduino-serial-data-796c4f7d27ce)
+10. [🗺️ OSI Model Layers — “Explained”](https://medium.com/@madhavbahl10/osi-model-layers-explained-ee1d43058c1f)
 9. [⚙️ Object Oriented Programming With C++](https://madhavbahlmd.github.io/OOPS/)
 10. [🇨 Introductory Problems in C Programming](https://madhavbahlmd.github.io/OOPS/reviseC/)
 11. [💻 Operating System Related Algorithms](https://madhavbahlmd.github.io/OperatingSystem-Algorithms/)

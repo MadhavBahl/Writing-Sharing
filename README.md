@@ -23,6 +23,7 @@ Find more about me: <a href="http://madhavbahl.ml/">Madhav Bahl</a> <br />
 4. [🌐 How to start WEB DEV -- A 21st century practicle GUIDE](./Articles/startWebDev.md)
 5. [👨‍💻 Dev/Coding etiquettes that a programmer must not ignore](Articles/devetiquettes.md)
 6. [😎 Think Incognito](Articles/thinkIncognito.md)
+6. [🔏 Someone Is Selling Your Privacy](Articles/someoneSellPrivacy.md)
 7. [✨ Awesome background with ParticlesJS](#)
 8. [👨 Code your own portfolio -- Learn MaterializeCSS with hands on](https://medium.com/@madhavbahl10/lets-code-our-portfolio-a-practical-approach-to-materializecss-61adfb17e308)
 9. [🔌 Read Arduino Serial Monitor Using NodeJS](https://hackernoon.com/arduino-serial-data-796c4f7d27ce)

@@ -323,10 +323,8 @@ Just in case you wish to be a web developer, [have a look at this article](https
 * * *
 
 I am trying to build a community of developers called Logic Xcution where we learn, share, develop and grow together. If interested, join the slack workspace today.
-Slack: [https://join.slack.com/t/logic-xcution/shared_invite/enQtMzMzMTM4MTQzMTM2LTgwM2IyYjk4ZWIwODNmYmYzYTc1OWFjNDI3NzMwYWEwZjg2MjgwMDQ1MTU4ODhhYjY0MTFjMGJjZTk2OWRlYTE](https://join.slack.com/t/logic-xcution/shared_invite/enQtMzMzMTM4MTQzMTM2LTgwM2IyYjk4ZWIwODNmYmYzYTc1OWFjNDI3NzMwYWEwZjg2MjgwMDQ1MTU4ODhhYjY0MTFjMGJjZTk2OWRlYTE)
 
-[**Logic Xcution**
-_Logic Xcution. 81 likes. An open community for all the people who aspire to be a developer, or are currently a…_www.facebook.com](https://www.facebook.com/LogicXcution/ "https://www.facebook.com/LogicXcution/")[](https://www.facebook.com/LogicXcution/)
+#### [Join Slack Workspace Today](http://codetoexpress.tech/join/)
 
 > Thanks a lot for keeping your calm and reading till end. 
 > Now you know what all practises to adopt to have a write good code,

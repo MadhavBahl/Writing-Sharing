@@ -17,9 +17,9 @@ Find more about me: <a href="http://madhavbahl.ml/">Madhav Bahl</a> <br />
 
 # 📖 MY WRITES ![App Progress Status](https://img.shields.io/badge/Writing%20Status-In%20Progress-0520b7.svg?style=plastic)
 
-1. [📝 Why did I Start Writing](MyWrites/Myself.md)
+1. [📝 Why did I Start Writing](#)
 2. [😊 My first BLOG -- MOTIVATE YOURSELF](MyWrites/Motivational.md)
-3. [:octocat: Intro to GIT and GitHub](https://medium.com/codeburst/git-good-part-a-e0d826286a2a)
+3. [:octocat: Intro to GIT and GitHub](./Articles/GitGoodA.md)
 4. [🌐 How to start WEB DEV -- A 21st century practicle GUIDE](./Articles/startWebDev.md)
 5. [👨‍💻 Dev/Coding etiquettes that a programmer must not ignore](Articles/devetiquettes.md)
 6. [😎 Think Incognito](Articles/thinkIncognito.md)

@@ -19,7 +19,8 @@ Find more about me: <a href="http://madhavbahl.ml/">Madhav Bahl</a> <br />
 
 1. [📝 Why did I Start Writing](#)
 2. [😊 My first BLOG -- MOTIVATE YOURSELF](MyWrites/Motivational.md)
-3. [:octocat: Intro to GIT and GitHub](./Articles/GitGoodA.md)
+3. [:octocat: Intro to GIT and GitHub - Part A](./Articles/GitGoodA.md)
+4. [:octocat: Intro to GIT and GitHub - Part B](./Articles/GitGoodB.md)
 4. [🌐 How to start WEB DEV -- A 21st century practicle GUIDE](./Articles/startWebDev.md)
 5. [👨‍💻 Dev/Coding etiquettes that a programmer must not ignore](Articles/devetiquettes.md)
 6. [😎 Think Incognito](Articles/thinkIncognito.md)
